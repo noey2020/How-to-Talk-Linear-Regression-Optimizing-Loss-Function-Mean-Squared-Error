@@ -1,0 +1,1 @@
+# How-to-Talk-Linear-Regression-Optimizing-Loss-Function-Mean-Squared-Error
